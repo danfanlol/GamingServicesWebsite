@@ -1,0 +1,207 @@
+
+body{
+	background-image: url();
+}
+.main ul{
+	position:absolute;
+	right: 41%;
+	top: 0.5%;
+	list-style-type: none;
+}
+
+.header{
+	border: 2px;
+    border-style:solid;
+}
+
+.header ul li{
+	display: inline-block;
+	margin-top: 40px;
+	border: 3px solid rgba(255, 255, 255, 0.349);
+	padding: 1px 10px;
+	font-size: 150%;
+	margin: 10px;
+
+}
+.header ul li a{
+	text-decoration: none;
+	color: inherit;
+}
+.sub-header{
+	position: relative;
+	right: -300px;
+}
+.sub-sub-header{
+	position: relative;
+	right: -300px;
+}
+.meet{
+    position: absolute;
+    font-size: 200%;
+    left: 35%;
+}
+.Tenz{
+    position: absolute;
+    width: 1900px;
+    background: rgba(0,0,0,0.4);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 10%;
+    color: white;
+}
+.Tenz img{
+    width: 300px;
+    border-radius: 50%;
+    height: 300px;
+}
+.Tenz p{
+    font-size: 150%;
+    position: absolute;
+    width: 700px;
+    margin-top: 5%;
+}
+.Tenz h2{
+    font-weight: normal;
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 65%;
+}
+.Wardell{
+    position: absolute;
+    width: 1900px;
+    background: rgba(0,0,0,0.4);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 40%;
+    color: white;
+}
+.Wardell img{
+    width: 300px;
+    border-radius: 50%;
+    height: 300px;
+}
+.Wardell p{
+    position: absolute;
+    font-size: 150%;
+    width: 700px;
+    margin-top: -10%;
+}
+.Wardell h2{
+    position: absolute;
+    font-weight: normal;
+    margin-top: -10%;
+    margin-left: 65%;
+
+}
+.Governor{
+    position: absolute;
+    width: 1900px;
+    background: rgba(0,0,0,0.4);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 70%;
+    color: white;
+}
+.Governor img{
+    width: 300px;
+    border-radius: 50%;
+    height: 300px;
+}
+.Governor p{
+    position: absolute;
+    font-size: 150%;
+    width: 700px;
+    margin-top: -10%;
+}
+.Governor h2{
+    position: absolute;
+    font-weight: normal;
+    margin-top: -10%;
+    margin-left: 65%;
+}
+.PROD{
+    position: absolute;
+    width: 1900px;
+    background: rgba(0,0,0,0.4);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 100%;
+    color: white;
+}
+.PROD img{
+    width: 300px;
+    border-radius: 50%;
+    height: 300px;
+}
+.PROD p{
+    position: absolute;
+    font-size: 150%;
+    width: 700px;
+    margin-top: -10%;
+}
+.PROD h2{
+    position: absolute;
+    font-weight: normal;
+    margin-top: -10%;
+    margin-left: 65%;
+}
+.ending{
+    width: 1900px;
+    height: 500px;
+    position: absolute; 
+    top: 280%;
+    background-color: rgb(31, 29, 29);
+}
+.company ul li{
+    list-style: none;
+    margin-top: 9px;
+    color:rgb(255, 255, 255)
+}
+.company h1{
+    position: relative;
+    right: -2%;
+    color:rgb(255, 255, 255)
+}
+.games ul li{
+    list-style: none;
+    margin-top: 9px;
+    position: relative;
+    top: -259px;
+    right: -10.5%;
+    color:rgb(255, 255, 255)
+}
+.games h1{
+    position: relative;
+    top: -255px;
+    right: -12%;
+    color:rgb(255, 255, 255)
+}
+.socials ul li{
+    list-style: none;
+    margin-top: 9px;
+    position: relative;
+    top: -515px;
+    right: -21%;
+    color:rgb(255, 255, 255)
+}
+.socials h1{
+    position: relative;
+    top: -510px;
+    right: -22%;
+    color:rgb(255, 255, 255)
+}
+.trustpilot img{
+    position: relative;
+    right: -32%;
+    top: -650px;
+}
+.google img{
+    width: 20%;
+    position: relative;
+    right: -32%;
+    top: -630px;
+}

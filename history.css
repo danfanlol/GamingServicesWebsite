@@ -1,0 +1,212 @@
+.header{
+	border: 2px;
+    border-style:solid;
+}
+
+.header ul li{
+	display: inline-block;
+	margin-top: 40px;
+	border: 3px solid rgba(255, 255, 255, 0.349);
+	padding: 1px 10px;
+	font-size: 150%;
+	margin: 10px;
+
+}
+.header ul li a{
+	text-decoration: none;
+	color: inherit;
+}
+[data-tab-content]{
+	display:none;
+
+}
+.active[data-tab-content]{
+	display: block;
+    margin-left: 300px;
+	
+}
+body{
+    padding: 0;
+    margin:0;
+
+}
+.tabs {
+    display:flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-size: 140%;
+}
+
+.tab{
+    cursor: pointer;
+    padding: 10px;
+    margin-right: 100px;
+    margin-left: 300px;
+}
+.tab.active{
+    
+    background-color: #CCC;
+}
+.tab:hover{
+    background-color: #AAA;
+}
+.begin p{
+    font-size: 250%;
+    text-align: center;
+    font-weight: bold;
+}
+.xe1{
+    width: 500px;
+    font-size: 200%;
+}
+.xe1 img{
+    width: 700px;
+    position: relative;
+    left: 140%;
+    bottom: 400px;
+}
+.xe2{
+    width: 500px;
+    font-size: 200%;
+}
+.xe2 img{
+    width: 700px;
+    position: relative;
+    left: 140%;
+    bottom: 400px;
+}
+.xe3{
+    width: 500px;
+    font-size: 200%;
+}
+.xe3 img{
+    width: 700px;
+    position: relative;
+    left: 140%;
+    bottom: 400px;s
+}
+.growing{
+    width: 2000px;
+    height: 500px;
+    position: absolute;
+    background: rgba(128,0,128,1);
+    color: white;
+    top: 100%;
+}
+.s1 h1{
+    position: relative;
+    right: -30%;
+    top: 40px;
+    font-size: 300%;
+}
+.growing p{
+    position: relative;
+    right: -20%;
+    top: 40px;
+    font-size: 120%;
+}
+.s2 h1{
+    position: relative;
+    right: -30%;
+    top: 40px;
+    font-size: 300%;
+}
+.s2 p{
+    position: relative;
+    right: -31%;
+    top: 20px;
+    font-size: 120%;
+}
+.s3 h1{
+    position: relative;
+    right: -16%;
+    font-size: 300%;
+    bottom: 105px;
+}
+.s3 p{
+    position: relative;
+    right: -16%;
+    top: -125px;
+    font-size: 120%;
+}
+.s4 h1{
+    position: relative;
+    right: -44%;
+    top: -240px;
+    font-size: 300%;
+}
+.s4 p{
+    position: relative;
+    right: -45%;
+    top: -260px;
+    font-size: 120%;
+}
+.s5 h1{
+    position: relative;
+    right: -57%;
+    top: -380px;
+    font-size: 300%;
+}
+.s5 p{
+    position: relative;
+    right: -57%;
+    top: -400px;
+    font-size: 120%;
+}
+.ending{
+    width: 2000px;
+    height: 500px;
+    position: absolute; 
+    top: 170%;
+    background-color: rgb(31, 29, 29);
+}
+.company ul li{
+    list-style: none;
+    margin-top: 9px;
+    color:rgb(255, 255, 255)
+}
+.company h1{
+    position: relative;
+    right: -2%;
+    color:rgb(255, 255, 255)
+}
+.games ul li{
+    list-style: none;
+    margin-top: 9px;
+    position: relative;
+    top: -259px;
+    right: -10.5%;
+    color:rgb(255, 255, 255)
+}
+.games h1{
+    position: relative;
+    top: -255px;
+    right: -12%;
+    color:rgb(255, 255, 255)
+}
+.socials ul li{
+    list-style: none;
+    margin-top: 9px;
+    position: relative;
+    top: -515px;
+    right: -21%;
+    color:rgb(255, 255, 255)
+}
+.socials h1{
+    position: relative;
+    top: -510px;
+    right: -22%;
+    color:rgb(255, 255, 255)
+}
+.trustpilot img{
+    position: relative;
+    right: -32%;
+    top: -650px;
+}
+.google img{
+    width: 20%;
+    position: relative;
+    right: -32%;
+    top: -630px;
+}

@@ -1,0 +1,96 @@
+.header{
+	border: 2px;
+    border-style:solid;
+}
+
+.header ul li{
+	display: inline-block;
+	margin-top: 40px;
+	border: 3px solid rgba(255, 255, 255, 0.349);
+	padding: 1px 10px;
+	font-size: 150%;
+	margin: 10px;
+
+}
+.header ul li a{
+	text-decoration: none;
+	color: inherit;
+}
+.courses h1{
+    font-size: 350%;
+    position:absolute;
+    right: 75%;
+}
+.courses img{
+	position: absolute;
+	right: 77%;
+	top: 24%;
+}
+.courses li{
+	list-style: none;
+	position: absolute;
+	top: 45%;
+	right: 83.4%;
+	font-weight: bold;
+	font-size: 150%;
+}
+.courses li a{
+	text-decoration: none;
+	color: black;
+}
+.ending{
+    width: 1900px;
+    height: 500px;
+    position: absolute; 
+    top: 100%;
+    background-color: rgb(31, 29, 29);
+}
+.company ul li{
+    list-style: none;
+    margin-top: 9px;
+    color:rgb(255, 255, 255)
+}
+.company h1{
+    position: relative;
+    right: -2%;
+    color:rgb(255, 255, 255)
+}
+.games ul li{
+    list-style: none;
+    margin-top: 9px;
+    position: relative;
+    top: -259px;
+    right: -10.5%;
+    color:rgb(255, 255, 255)
+}
+.games h1{
+    position: relative;
+    top: -255px;
+    right: -12%;
+    color:rgb(255, 255, 255)
+}
+.socials ul li{
+    list-style: none;
+    margin-top: 9px;
+    position: relative;
+    top: -515px;
+    right: -21%;
+    color:rgb(255, 255, 255)
+}
+.socials h1{
+    position: relative;
+    top: -510px;
+    right: -22%;
+    color:rgb(255, 255, 255)
+}
+.trustpilot img{
+    position: relative;
+    right: -32%;
+    top: -650px;
+}
+.google img{
+    width: 20%;
+    position: relative;
+    right: -32%;
+    top: -630px;
+}

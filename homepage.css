@@ -1,0 +1,441 @@
+[data-tab-content]{
+	display:none;
+
+}
+.active[data-tab-content]{
+	display: block;
+    margin-left: 100px;
+	
+}
+body{
+    padding: 0;
+    margin:0;
+
+}
+.tabs {
+		
+    display:flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    border-bottom: 1px solid black;
+}
+.tab{
+    cursor: pointer;
+    padding: 10px;
+    margin-right: -200px;
+    margin-left: 300px;
+}
+.tab.active{
+    
+    background-color: #CCC;
+}
+.tab:hover{
+    background-color: #AAA;
+}
+body{
+	background-image: url();
+}
+.main ul{
+	position:absolute;
+	right: 41%;
+	top: 0.5%;
+	list-style-type: none;
+}
+
+.header{
+	border: 2px;
+    border-style:solid;
+}
+
+.header ul li{
+	display: inline-block;
+	margin-top: 40px;
+	border: 3px solid rgba(255, 255, 255, 0.349);
+	padding: 1px 10px;
+	font-size: 150%;
+	margin: 10px;
+
+}
+.header ul li a{
+	text-decoration: none;
+	color: inherit;
+}
+.sub-header{
+	position: relative;
+	right: -300px;
+}
+.sub-sub-header{
+	position: relative;
+	right: -300px;
+}
+.Tenz{
+    width: 300px;
+    background: rgba(0,0,0,0.4);
+    padding: 40px;
+    text-align: center;
+    position: absolute;
+    right: 65%;
+    top: 40%;
+}
+.Tenz img{
+	border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.Governor{
+    width: 300px;
+    background: rgba(0,0,0,0.4);
+    padding: 40px;
+    text-align: center;
+    position: absolute;
+    right: 45%;
+    top: 40%;
+}
+.Governor img{
+	border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.Wardell{
+    width: 300px;
+    background: rgba(0,0,0,0.4);
+    padding: 40px;
+    text-align: center;
+    position: absolute;
+    right: 25%;
+    top: 40%;
+}
+.Wardell img{
+	border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.Nurfed{
+    width: 300px;
+    background: rgba(0,0,0,0.4);
+    padding: 40px;
+    text-align: center;
+    position: absolute;
+    right: 5%;
+    top: 40%;
+}
+.Nurfed img{
+	border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.Sypher{
+    width: 300px;
+    background: rgba(0,0,0,0.4);
+    padding: 40px;
+    text-align: center;
+    position: absolute;
+    right: 65%;
+    top: 40%;
+}
+.Sypher img{
+	border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.TenCups{
+    width: 300px;
+    background: rgba(0,0,0,0.4);
+    padding: 40px;
+    text-align: center;
+    position: absolute;
+    right: 45%;
+    top: 40%;
+}
+.TenCups img{
+	border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.Chaure{
+    width: 300px;
+    background: rgba(0,0,0,0.4);
+    padding: 40px;
+    text-align: center;
+    position: absolute;
+    right: 25%;
+    top: 40%;
+}
+.Chaure img{
+	border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.skills {
+	position: absolute;
+	top: 85%;
+    right: 67%;
+    font-size: 150%;
+    font-weight: bold;
+}
+.viewing {
+	position: absolute;
+	top: 110%;
+    right: 71.8%;
+    font-size: 190%;
+    font-weight: bold;
+}
+.topCategories{
+    position: absolute;
+	top: 160%;
+    right: 76%;
+    font-size: 190%;
+    font-weight: bold;
+}
+.Tenz2{
+    width: 300px;
+    background: rgba(0,0,0,0.4);
+    padding: 40px;
+    text-align: center;
+    position: absolute;
+    right: 66%;
+    top: 115%;
+}
+.Tenz2 img{
+	border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.Zt0L{
+    width: 300px;
+    background: rgba(0,0,0,0.4);
+    padding: 40px;
+    text-align: center;
+    position: absolute;
+    right: 46%;
+    top: 115%;
+}
+.Zt0L img{
+	border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.Wardell2{
+    width: 300px;
+    background: rgba(0,0,0,0.4);
+    padding: 40px;
+    text-align: center;
+    position: absolute;
+    right: 26%;
+    top: 115%;
+}
+.Wardell2 img{
+	border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.Nurfed2{
+    width: 300px;
+    background: rgba(0,0,0,0.4);
+    padding: 40px;
+    text-align: center;
+    position: absolute;
+    right: 6%;
+    top: 115%;
+}
+.Nurfed2 img{
+	border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.Governor2{
+    width: 300px;
+    background: rgba(0,0,0,0.4);
+    padding: 40px;
+    text-align: center;
+    position: absolute;
+    right: 66%;
+    top: 165%;
+}
+.Governor2 img{
+	border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.Menace{
+    width: 300px;
+    background: rgba(0,0,0,0.4);
+    padding: 40px;
+    text-align: center;
+    position: absolute;
+    right: 46%;
+    top: 165%;
+}
+.Menace img{
+	border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.Root{
+    width: 300px;
+    background: rgba(0,0,0,0.4);
+    padding: 40px;
+    text-align: center;
+    position: absolute;
+    right: 26%;
+    top: 165%;
+}
+.Root img{
+	border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.Raft{
+    width: 300px;
+    background: rgba(0,0,0,0.4);
+    padding: 40px;
+    text-align: center;
+    position: absolute;
+    right: 6%;
+    top: 165%;
+}
+.Raft img{
+	border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.featured{
+    background-color: rgb(248, 241, 241);
+    width: 2000px;
+    height: 600px;
+    position: absolute;
+    font-size: 220%;
+    list-style: none;
+    top: 210%;
+    left: 13.5%;
+}
+.Aiming li{
+    padding-top: 40px;
+    font-size: 70%;
+}
+.Aiming{
+    position: absolute;
+    margin-top: 40px;
+    right: 90%;
+}
+.gameSense{
+    position: absolute;
+    margin-top: 40px;
+    right: 70%;
+}
+.gameSense li{
+    padding-top: 40px;
+    font-size: 70%;
+}
+.wu{
+    position: absolute;
+    margin-top: 40px;
+    right: 30%;
+}
+.wu li{
+    padding-top: 40px;
+    font-size: 70%;
+}
+.movement{
+    position: absolute;
+    margin-top: 40px;
+    right: 50%;
+}
+.movement li{
+    padding-top: 40px;
+    font-size: 70%;
+}
+.notSure{
+    position: absolute;
+    top: 205%;
+    right:48.5%;
+    border: 1px solid;
+	padding: 20px 73px;
+	text-decoration: none;
+	transition: 0.6s ease;
+    display: inline-block;
+	margin-top: 40px;
+    font-size: 150%;
+}
+.vouches{
+    position: absolute;
+    top: 215%;
+    right:30%;
+    border: 1px solid;
+	padding: 20px 73px;
+	text-decoration: none;
+	transition: 0.6s ease;
+    display: inline-block;
+	margin-top: 40px;
+    font-size: 150%;
+}
+.benefits{
+    position: absolute;
+    right: 8%;
+    top: 85%;
+    list-style-type: none;
+    display: table;
+}
+.benefits li{
+    margin-left: 30px;
+    display: inline;
+    font-size: 130%;
+    font-weight: bold;
+}
+.ending{
+    width: 1900px;
+    height: 500px;
+    position: absolute; 
+    top: 260%;
+    background-color: rgb(31, 29, 29);
+}
+.company ul li{
+    list-style: none;
+    margin-top: 9px;
+    color:rgb(255, 255, 255)
+}
+.company h1{
+    position: relative;
+    right: -2%;
+    color:rgb(255, 255, 255)
+}
+.games ul li{
+    list-style: none;
+    margin-top: 9px;
+    position: relative;
+    top: -259px;
+    right: -10.5%;
+    color:rgb(255, 255, 255)
+}
+.games h1{
+    position: relative;
+    top: -255px;
+    right: -12%;
+    color:rgb(255, 255, 255)
+}
+.socials ul li{
+    list-style: none;
+    margin-top: 9px;
+    position: relative;
+    top: -515px;
+    right: -21%;
+    color:rgb(255, 255, 255)
+}
+.socials h1{
+    position: relative;
+    top: -510px;
+    right: -22%;
+    color:rgb(255, 255, 255)
+}
+.trustpilot img{
+    position: relative;
+    right: -32%;
+    top: -650px;
+}
+.google img{
+    width: 20%;
+    position: relative;
+    right: -32%;
+    top: -630px;
+}
